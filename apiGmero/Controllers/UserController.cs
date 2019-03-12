@@ -19,7 +19,7 @@ namespace apiGmero.Controllers
                 Identificacion = "0931254569",
                 Nombre = "Geovanny",
                 Apellidos = "Mero Baque",
-                FechaNacimiento = Convert.ToDateTime("19/11/1993")
+                FechaNacimiento = Convert.ToDateTime("10/11/1993")
             }
         };
         // GET api/user
